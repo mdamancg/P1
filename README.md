@@ -1,2 +1,2 @@
-# rep try
+# repo try
 making repo for first time 
