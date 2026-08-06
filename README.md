@@ -1,87 +1,62 @@
-<h1 align="center">Hi 👋, I'm MD Aman</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 B.Tech CSE Student | AI Enthusiast | Full Stack Developer
-</h3>
+# 👋 Hey, I'm MD Aman
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+Developer;Full+Stack+Developer;Open+Source+Learner;Always+Building+Awesome+Projects!" />
-</p>
+### 🚀 AI Engineer • Full Stack Developer • B.Tech CSE Student
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning;Full+Stack+Developer;Building+Projects+Every+Day;Open+Source+Learner" />
 
-# 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=mdamancg&style=for-the-badge&color=blue"/>
 
-- 🎓 B.Tech CSE Student
-- 💻 Passionate about AI, Web Development & Cyber Security
-- 🌱 Currently learning React, Node.js, Python & AI
-- 🚀 Building Real-World Projects
-- 📚 Always Learning New Technologies
-- ⚡ Fun Fact: I love solving coding challenges.
+</div>
 
 ---
 
-# 🌐 Connect with Me
+# 💫 About Me
 
-<p align="left">
-
-<a href="https://github.com/mdamancg">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
-
----
-
-# 💻 Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,cpp,mysql,firebase,git,github,vscode,figma,linux&perline=9"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🎬 Netflix Clone | Responsive Netflix UI using HTML, CSS & JavaScript |
-| 🤖 AI Chatbot | AI-powered chatbot project |
-| 🧮 Calculator | Java & Python Calculator |
-| 🌐 Portfolio Website | Personal Portfolio Website |
-| 🔐 Cyber Security Toolkit | Security utilities and tools |
+```yaml
+Name: MD Aman
+Education: B.Tech CSE
+Location: India 🇮🇳
+Focus:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Open Source
+  - Cloud Computing
+Learning:
+  - React
+  - Next.js
+  - Node.js
+  - Python
+Goal:
+  - Software Engineer
+```
 
 ---
 
-# 📊 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdamancg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mdamancg&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,firebase,git,github,docker,linux,vscode,figma&perline=7"/>
 
 </p>
 
 ---
 
-# 📈 Top Languages
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamancg&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdamancg&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdamancg&theme=radical&hide_border=true"/>
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mdamancg&theme=algolia&column=7&margin-w=10&margin-h=10"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamancg&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -91,54 +66,74 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamancg&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamancg&theme=react-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-> Enable a GitHub Action to generate this automatically.
-
-```text
-https://raw.githubusercontent.com/mdamancg/mdamancg/output/github-contribution-grid-snake.svg
-```
-
-Then use:
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/mdamancg/mdamancg/output/github-contribution-grid-snake.svg">
-</p>
-```
-
----
-
-# 👀 Profile Views
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mdamancg&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mdamancg&theme=radical&no-frame=true&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 💬 Quote
+# 🚀 Featured Projects
+
+| 🚀 Project | 🔥 Tech |
+|------------|---------|
+| Netflix Clone | HTML • CSS • JavaScript |
+| AI Chatbot | Python • AI |
+| Portfolio Website | React |
+| Calculator | Java |
+| Future SaaS Projects | MERN Stack |
+
+---
+
+# 📚 Currently Learning
+
+- 🤖 Artificial Intelligence
+- ⚛️ React & Next.js
+- ☁️ Cloud Computing
+- 🐳 Docker
+- 🔥 System Design
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
 
-> **"Dream Big. Code Bigger. Build the Future." 🚀**
+<a href="https://github.com/mdamancg">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://instagram.com">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💡 Motto
 
-If you like my work, don't forget to ⭐ my repositories.
+### **"Code • Create • Innovate • Repeat" 🚀**
 
-</p>
+⭐ Thanks for visiting my profile!
+
+</div>
