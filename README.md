@@ -1,91 +1,96 @@
-````markdown
 <div align="center">
 
-# 👋 Hi, I'm MD Aman
+# 👋 Hello, I'm MD Aman
 
-### 💻 AI Developer • Full Stack Developer • B.Tech CSE Student
+### 🚀 AI Engineer • Full Stack Developer • Open Source Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+AI+Projects;Full+Stack+Developer;Always+Learning+Something+New;Open+Source+Explorer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Full+Stack+Developer;Building+Amazing+Projects;Always+Learning+New+Technologies" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=180&section=header&text=MD%20AMAN&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=MD%20AMAN&fontAlign=50&fontAlignY=40&fontSize=60&animation=fadeIn" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mdamancg&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/mdamancg?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/mdamancg?style=for-the-badge&logo=github" />
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-```text
-👨‍🎓 B.Tech CSE Student
-🤖 Exploring Artificial Intelligence
-🌐 Building Full Stack Web Applications
-💡 Passionate about Problem Solving
-📚 Learning Every Day
+```yaml
+Name: MD Aman
+Role: B.Tech CSE Student
+Focus:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Open Source
+Current Learning:
+  - React
+  - Next.js
+  - Node.js
+  - Machine Learning
 ```
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,firebase,docker,git,github,linux,vscode,figma&perline=7"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,firebase,git,github,docker,linux,vscode,figma&perline=7"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdamancg&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdamancg&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamancg&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Dashboard
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdamancg&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdamancg&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamancg&layout=compact&theme=transparent&hide_border=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=mdamancg&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=4"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamancg&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mdamancg&theme=onedark&no-bg=true&no-frame=true&column=4&margin-w=15"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamancg&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Stack |
-|---------|------|
-| 🎬 Netflix Clone | HTML • CSS • JavaScript |
-| 🤖 AI Chatbot | Python • AI |
-| 🌐 Portfolio | React |
-| 📱 Future SaaS | MERN |
-| ⚡ Automation Tools | Python |
+| 🚀 Project | 💻 Technology |
+|------------|--------------|
+| Netflix Clone | HTML • CSS • JavaScript |
+| AI Chatbot | Python • AI |
+| Portfolio Website | React |
+| Calculator | Java |
+| Future SaaS | MERN Stack |
 
 ---
 
-# 📬 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -93,12 +98,16 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
 </p>
@@ -107,10 +116,12 @@
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+## 💭 Favorite Quote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=120&section=footer"/>
+> **"The best way to predict the future is to build it."**
+
+⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
-````
-
