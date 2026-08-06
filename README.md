@@ -1,82 +1,73 @@
+````markdown
 <div align="center">
 
-# 👋 Hey, I'm MD Aman
+# 👋 Hi, I'm MD Aman
 
-### 🚀 AI Engineer • Full Stack Developer • B.Tech CSE Student
+### 💻 AI Developer • Full Stack Developer • B.Tech CSE Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning;Full+Stack+Developer;Building+Projects+Every+Day;Open+Source+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+AI+Projects;Full+Stack+Developer;Always+Learning+Something+New;Open+Source+Explorer" />
 
-<img src="https://komarev.com/ghpvc/?username=mdamancg&style=for-the-badge&color=blue"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=180&section=header&text=MD%20AMAN&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-```yaml
-Name: MD Aman
-Education: B.Tech CSE
-Location: India 🇮🇳
-Focus:
-  - Artificial Intelligence
-  - Full Stack Development
-  - Open Source
-  - Cloud Computing
-Learning:
-  - React
-  - Next.js
-  - Node.js
-  - Python
-Goal:
-  - Software Engineer
+```text
+👨‍🎓 B.Tech CSE Student
+🤖 Exploring Artificial Intelligence
+🌐 Building Full Stack Web Applications
+💡 Passionate about Problem Solving
+📚 Learning Every Day
 ```
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Arsenal
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,firebase,git,github,docker,linux,vscode,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,firebase,git,github,docker,linux,vscode,figma&perline=7"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdamancg&show_icons=true&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdamancg&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdamancg&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdamancg&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamancg&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamancg&theme=react-dark&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamancg&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Activity Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mdamancg&theme=radical&no-frame=true&row=2&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamancg&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mdamancg&theme=onedark&no-bg=true&no-frame=true&column=4&margin-w=15"/>
 
 </p>
 
@@ -84,27 +75,17 @@ Goal:
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 🔥 Tech |
-|------------|---------|
-| Netflix Clone | HTML • CSS • JavaScript |
-| AI Chatbot | Python • AI |
-| Portfolio Website | React |
-| Calculator | Java |
-| Future SaaS Projects | MERN Stack |
+| Project | Stack |
+|---------|------|
+| 🎬 Netflix Clone | HTML • CSS • JavaScript |
+| 🤖 AI Chatbot | Python • AI |
+| 🌐 Portfolio | React |
+| 📱 Future SaaS | MERN |
+| ⚡ Automation Tools | Python |
 
 ---
 
-# 📚 Currently Learning
-
-- 🤖 Artificial Intelligence
-- ⚛️ React & Next.js
-- ☁️ Cloud Computing
-- 🐳 Docker
-- 🔥 System Design
-
----
-
-# 🌍 Connect With Me
+# 📬 Connect
 
 <p align="center">
 
@@ -112,16 +93,12 @@ Goal:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://twitter.com">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="https://instagram.com">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -130,10 +107,10 @@ Goal:
 
 <div align="center">
 
-## 💡 Motto
+### ⭐ "Code. Learn. Build. Repeat."
 
-### **"Code • Create • Innovate • Repeat" 🚀**
-
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=120&section=footer"/>
 
 </div>
+````
+
