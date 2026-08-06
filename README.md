@@ -65,7 +65,7 @@ Current Learning:
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mdamancg&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=4"/>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=prakharkulshresthacg&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
